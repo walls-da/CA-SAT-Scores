@@ -21,7 +21,7 @@ This projet investigated SAT data at the school and county level via Jupyter Not
 ## Visualizations
 Visual dashboard can be viewed here: [CA SAT Analysis](https://public.tableau.com/views/CASATAnalysis/CASATTestRates?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Python Code Samples
+## Python Code
 [Scripts](https://github.com/walls-da/CA-SAT-Scores/tree/main/CA%20SAT%20Analysis/Scripts) 
 
 ### Skills
